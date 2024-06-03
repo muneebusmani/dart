@@ -13,6 +13,7 @@
   "edgy.nvim": { "branch": "main", "commit": "de79b7d92a5979cd71a9a1d8b6282515345e5055" },
   "flutter-tools.nvim": { "branch": "main", "commit": "990a1349c29f7d474a0cd51355aba773ccc9deea" },
   "friendly-snippets": { "branch": "main", "commit": "e11b09bf10706bb74e16e4c3d11b2274d62e687f" },
+  "generic": { "branch": "master", "commit": "fceecc09e5614404b0138b28c3bf5816d009dc30" },
   "gitsigns.nvim": { "branch": "main", "commit": "75dc649106827183547d3bedd4602442340d2f7f" },
   "harpoon": { "branch": "harpoon2", "commit": "0378a6c428a0bed6a2781d459d7943843f374bce" },
   "indent-blankline.nvim": { "branch": "master", "commit": "d98f537c3492e87b6dc6c2e3f66ac517528f406f" },
